@@ -1,0 +1,12 @@
+# Node
+node_modules/
+**/.next/
+# Logs
+npm-debug.log*
+*.log
+# Environment
+.env
+# Hardhat
+contracts/node_modules/
+contracts/artifacts/
+contracts/cache/
